@@ -1,0 +1,602 @@
+{
+    "type": "class",
+    "name": "Druid",
+    "levels": [
+        {
+            "features": [
+                "druidic", "spellcasting"
+            ],
+            "proficiencyBonus": 2,
+            "cantripsKnown": 2,
+            "spellSlotPerSpellLevel": [
+                2
+            ],
+            "spells": [
+                "absorb elements", "animal friendship", "beast bond", "charm person", "create or destroy water", "cure wounds", "detect magic", "detect poison and disease", "earth tremor", "entangle", "faerie fire", "fog cloud", "goodberry", "healing word", "ice knife", "jump", "longstrider", "protection from evil and good", "purify food and drink", "snare", "speak with animals", "tunderwave"
+            ]
+        },
+        {
+            "features": [
+                "wild shape", "druid circle", "wild companion"
+            ],
+            "proficiencyBonus": 2,
+            "cantripsKnown": 2,
+            "spellSlotPerSpellLevel": [
+                3
+            ]
+        },
+        {
+            "proficiencyBonus": 2,
+            "cantripsKnown": 2,
+            "spellSlotPerSpellLevel": [
+                4,
+                2
+            ],
+            "spells": [
+                "air bubble", "animal messenger", "augury", "barkskin", "beast sense", "continual flame", "darkvision", "dust devil", "earthbind", "enhance ability", "enlarge/reduce", "find traps", "flame blade", "flaming sphere", "gust of wind", "healing spirit", "heat metal", "hold person", "lesser restoration", "locate animals or plants", "locate object", "moonbeam", "pass without trace", "protection from poison", "skywrite", "spike growth", "summon beast", "warding wind", "wither and bloom"
+            ]
+        },
+        {
+            "features": [
+                "wild shape improvement", "ability score improvement"
+            ],
+            "proficiencyBonus": 2,
+            "cantripsKnown": 3,
+            "spellSlotPerSpellLevel": [
+                4,
+                3
+            ]
+        },
+        {
+            "proficiencyBonus": 3,
+            "cantripsKnown": 3,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                2
+            ],
+            "spells": [
+                "aura of vitality", "call lightning", "conjure animals", "daylight", "dispel magic", "elementa; weapon", "erupting earth", "feign death", "flame arrows", "meld into stone", "plant growth", "protection from energy", "revivify", "sleet storm", "speak with plants", "summon fey", "tidal wave", "wall of water", "water breathing", "water walk", "wind wall"
+            ]
+        },
+        {
+            "features": [
+                "druid circle feature"
+            ],
+            "proficiencyBonus": 3,
+            "cantripsKnown": 3,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3
+            ]
+        },
+        {
+            "proficiencyBonus": 3,
+            "cantripsKnown": 3,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                1
+            ],
+            "spells": [
+                "blight", "charm monster", "confusion", "conjure minor elementals", "conjure woodland beings", "control water", "divination", "dominate beast", "elemental bane", "fire shield", "freedom of movement", "giant insect", "grasping vine", "guardian of nature", "hallucinatory terrain", "ice storm", "locate creature", "polymorph", "stone shape", "stoneskin", "summon elemental", "wall of fire", "watery sphere"
+            ]
+        },
+        {
+            "features": [
+                "wild shape improvement", "ability score improvement"
+            ],
+            "proficiencyBonus": 3,
+            "cantripsKnown": 3,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                2
+            ]
+        },
+        {
+            "proficiencyBonus": 4,
+            "cantripsKnown": 3,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                1
+            ],
+            "spells": [
+                "antilife shell", "awaken", "commune with nature", "cone of cold", "conjure elemental", "contagion", "control winds", "geas", "greater restoration", "insect plague", "maelstorm", "mass cure wounds", "planar binding", "reincarnate", "scrying", "summon draconic spirit", "transmute rock", "tree stride", "wall of stone", "wrath of nature"
+            ]
+        },
+        {
+            "features": [
+                "druid circle feature"
+            ],
+            "proficiencyBonus": 4,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2
+            ]
+        },
+        {
+            "proficiencyBonus": 4,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1
+            ],
+            "spells": [
+                "bones of the earth", "conjure of fey", "druid grove", "find the path", "flesh to stone", "heal", "heroes feast", "investiture of flame", "investiture of ice", "investiture of stone", "investiture of wind", "move earth", "primordial ward", "sunbeam", "transport via plants", "wall of thorns", "wind walk"
+            ]
+        },
+        {
+            "features": [
+                "ability score improvement"
+            ],
+            "proficiencyBonus": 4,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "proficiencyBonus": 5,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1
+            ],
+            "spells": [
+                "draconic transformation", "fire storm", "mirage arcane", "plane shift", "regenerate", "reverse gravity", "symbol", "whirlwind"
+            ]
+        },
+        {
+            "features": [
+                "druid circle feature"
+            ],
+            "proficiencyBonus": 5,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1
+            ]
+        },
+        {
+            "proficiencyBonus": 5,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            "spells": [
+                "animal shapes", "antipath/sympathy", "control weather", "earthquake", "feeblemind", "incendiary cloud", "sunburst", "tsunami"
+            ]
+        },
+        {
+            "features": [
+                "ability score improvement"
+            ],
+            "proficiencyBonus": 5,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "proficiencyBonus": 6,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "spells": [
+                "foresight", "shapechange", "storm of vengeance", "true resurrection"
+            ]
+        },
+        {
+            "features": [
+                "timeless body", "beast spells"
+            ],
+            "proficiencyBonus": 6,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                3,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "features": [
+                "ability score improvement"
+            ],
+            "proficiencyBonus": 6,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "features": [
+                "archdruid"
+            ],
+            "proficiencyBonus": 6,
+            "cantripsKnown": 4,
+            "spellSlotPerSpellLevel": [
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2,
+                1,
+                1
+            ]
+        }
+    ],
+    "hitPoints": {
+        "hitDice": "1d8",
+        "hitPointsAtLevelOne": 8
+    },
+    "proficiencies": {
+        "armor": [
+            "light armor", "medium armor", "shields"
+        ],
+        "weapons": [
+            "clubs", "daggers", "darts", "javelins", "maces", "quarterstaffs", "scimitars", "sickles", "slings", "spears"
+        ],
+        "tools": [
+            "herbalism kit"
+        ],
+        "savingThrows": [
+            "intelligence", "wisdom"
+        ],
+        "skills": {
+            "amount": 2,
+            "list": [
+                "arcana", "animal handling", "insight", "medicine", "nature", "perception", "religion", "survival"
+            ]
+        }
+    },
+    "languages": [
+        "Druidic"
+    ],
+    "cantrips": [
+        "control flames", "create bonfire", "druidcraft", "frostbite", "guidance", "gust", "infestation", "magic stone", "mending", "mold earth", "poison spray", "primal savagery", "produce flame", "resistance", "shape water", "shillelagh", "thorn whip", "thunderclap" 
+    ],
+    "mainModifier": "wisdom",
+    "spellSaveDC": 8,
+    "subClasses": {
+        "land": {
+            "bonusCantrip": 1,
+            "custom": [
+                {
+                    "type": "spellUnlockByFeature",
+                    "alwaysPrepared": true,
+                    "feature": {
+                        "arctic": [
+                            null,
+                            null,
+                            [
+                                "hold person", "spike growth"
+                            ],
+                            null,
+                            [
+                                "sleet storm", "slow"
+                            ],
+                            null,
+                            [
+                                "freedom of movement", "ice storm"
+                            ],
+                            null,
+                            [
+                                "commune with nature", "cone of cold"
+                            ]
+                        ],
+                        "coast": [
+                            null,
+                            null,
+                            [
+                                "mirror image", "misty step"
+                            ],
+                            null,
+                            [
+                                "water breathing", "water walk"
+                            ],
+                            null,
+                            [
+                                "control water", "freedom of movement"
+                            ],
+                            null,
+                            [
+                                "conjure elemental", "scrying"
+                            ]
+                        ],
+                        "desert": [
+                            null,
+                            null,
+                            [
+                                "blur", "silence"
+                            ],
+                            null,
+                            [
+                                "create food and water", "protection from energy"
+                            ],
+                            null,
+                            [
+                                "blight", "hallucinatory terrain"
+                            ],
+                            null,
+                            [
+                                "insect plague", "wall of stone"
+                            ]
+                        ],
+                        "forest": [
+                            null,
+                            null,
+                            [
+                                "barkskin", "spider climb"
+                            ],
+                            null,
+                            [
+                                "call lightning", "plant growth"
+                            ],
+                            null,
+                            [
+                                "divination", "freedom of movement"
+                            ],
+                            null,
+                            [
+                                "commune with nature", "tree stride"
+                            ]
+                        ],
+                        "grassland": [
+                            null,
+                            null,
+                            [
+                                "invisibility", "pass without trace"
+                            ],
+                            null,
+                            [
+                                "daylight", "haste"
+                            ],
+                            null,
+                            [
+                                "divination", "freedom of movement"
+                            ],
+                            null,
+                            [
+                                "dream", "insect plague"
+                            ]
+                        ],
+                        "mountain": [
+                            null,
+                            null,
+                            [
+                                "spider climb", "spike growth"
+                            ],
+                            null,
+                            [
+                                "lightning bolt", "meld into stone"
+                            ],
+                            null,
+                            [
+                                "stone shape", "stoneskin"
+                            ],
+                            null,
+                            [
+                                "passwall", "wall of stone"
+                            ]
+                        ],
+                        "swamp": [
+                            null,
+                            null,
+                            [
+                                "darkness", "melfs acid arrow"
+                            ],
+                            null,
+                            [
+                                "water walk", "stinking cloud"
+                            ],
+                            null,
+                            [
+                                "freedom of movement", "locate creature"
+                            ],
+                            null,
+                            [
+                                "insect plague", "scrying"
+                            ]
+                        ],
+                        "underdark": [
+                            null,
+                            null,
+                            [
+                                "spider climb", "web"
+                            ],
+                            null,
+                            [
+                                "gaseous form", "stinking cloud"
+                            ],
+                            null,
+                            [
+                                "greater invisibility", "stone shape"
+                            ],
+                            null,
+                            [
+                                "cloudkill", "insect plague"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        "dreams": {
+
+        },
+        "moon": {
+            "custom": [
+                {
+                    "type": "spellsAtLevel",
+                    "level": 14,
+                    "spells": [
+                        "alter self"
+                    ]
+                }
+            ]
+        },
+        "shepherd": {
+
+        },
+        "spores": {
+            "cantrips": [
+                "chill touch"
+            ],
+            "levels": [
+                null,
+                null,
+                {
+                    "spells": [
+                        "blindness/deafness", "gentle repose"
+                    ]
+                },
+                null,
+                {
+                    "spells": [
+                        "animate dead", "gaseous form"
+                    ]
+                },
+                null,
+                {
+                    "spells": [
+                        "blight", "confusion"
+                    ]
+                },
+                null,
+                {
+                    "spells": [
+                        "cloudkill", "contagion"
+                    ]
+                }
+            ],
+            "custom": [
+                {
+                    "type": "resistanceImmunityAtLevel",
+                    "resistance": [
+
+                    ],
+                    "immunity": [
+                        "blinded", "deafend", "frightened", "poisoned"
+                    ],
+                    "level": 14
+                }
+            ]
+        },
+        "stars": {
+            "custom": [
+                {
+                    "type": "resistanceImmunityAtLevel",
+                    "resistance": [
+
+                    ],
+                    "immunity": [
+                        "bludgeoning", "piercing", "slashing"
+                    ],
+                    "level": 14
+                }
+            ]
+        },
+        "wildfire": {
+            "levels": [
+                null,
+                {
+                    "spells": [
+                        "burning hands", "cure wounds"
+                    ]
+                },
+                {
+                    "spells": [
+                        "flaming sphere", "scorching ray"
+                    ]
+                },
+                null,
+                {
+                    "spells": [
+                        "plant growth", "revivify"
+                    ]
+                },
+                null,
+                {
+                    "spells": [
+                        "aura of life", "fire shield"
+                    ]
+                },
+                null,
+                {
+                    "spells": [
+                        "flame strike", "mass cure wounds"
+                    ]
+                }
+            ]
+        }
+    }
+}
